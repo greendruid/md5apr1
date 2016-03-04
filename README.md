@@ -3,3 +3,5 @@ usage:
 ```
 $ php apr1.php "$YOURPASSWORD"
 ```
+
+.

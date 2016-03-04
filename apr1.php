@@ -42,5 +42,6 @@ function apr1($mdp, $salt) {
 }
 // it's dirty dirty :)))
 $res = apr1("argv[1]", apr1_salt());
+//
 echo $res."\n";
 ?>
